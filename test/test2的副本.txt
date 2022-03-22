@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="./index.css"/>
+	<script url="./index.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    <!-- 注释：对代码的解释申明，给程序员看的  command+/ 就是注释的效果--> 
+    <!-- 标题标签
+        特点：1、双标签
+            2、成对出现
+            3、自带加粗效果，自带换行效果
+            4、h1最大h6最小一共6个级别
+
+        h1-h6:双标签都是成对出现的
+        <h1></h1>
+        ...
+        <h6></h6>
+    快速创建标签的方法：
+        h1+tab
+        h$*6 生成1-6的标签
+        h1*3 出现3次
+        h1{我是一级标题} *3 +tab
+        div{文本$}*3+tab
+        标签名字{文本&}*3+tab
+        标签名字{我是$级标题}*6 +tab
+
+        ctr + d 双选标签
+    -->
+    <h1>我是一级标题</h1>
+   
+    <h1>我是1级别的标题</h1>
+    <h2>我是2级别的标题</h2>
+    <h3>我是3级别的标题</h3>
+    <h4>我是4级别的标题</h4>
+    <h5>我是5级别的标题</h5>
+    <h6>我是6级别的标题</h6>
+	<div id="">
+		你好
+	</div>
+	
+	
+</body>
+</html>
